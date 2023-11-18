@@ -6,6 +6,7 @@
 
 ## Daftar Isi
 - [Topologi](#topologi)
+- [Configure](#configure) 
 - [Soal 1](#soal-1)
   - [Jawaban](#jawaban)
 - [Soal 2](#soal-2)
@@ -48,12 +49,39 @@
   - [Jawaban](#jawaban)
 
 ## Topologi
+<img width="620" alt="Screen Shot 2023-11-18 at 21 43 53" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/9875e7e1-57c7-4e08-8bf6-ee3b5ebd0825">
 
+## Configure
+Aura
+
+`auto eth0
+iface eth0 inet dhcp
+
+auto eth1
+iface eth1 inet static
+	address 192.212.1.10
+	netmask 255.255.255.0
+
+auto eth2
+iface eth2 inet static
+	address 192.212.2.10
+	netmask 255.255.255.0
+
+auto eth3
+iface eth3 inet static
+	address 192.212.3.10
+	netmask 255.255.255.0
+
+auto eth4
+iface eth4 inet static
+	address 192.212.4.10
+	netmask 255.255.255.0`
 
 ## Soal 1
 Lakukan konfigurasi sesuai dengan peta yang sudah diberikan dan pastikan semua CLIENT harus menggunakan konfigurasi dari DHCP Server.
 
 ### Jawaban
+
 
 ## Soal 2
 Client yang melalui Switch3 mendapatkan range IP dari [prefix IP].3.16 - [prefix IP].3.32 dan [prefix IP].3.64 - [prefix IP].3.80 
