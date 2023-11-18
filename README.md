@@ -245,12 +245,26 @@ Setelah dilakukan pengecekan, maka IP yang ada yakni `4.13`. Jadi pada client di
 Client mendapatkan DNS dari Heiter dan dapat terhubung dengan internet melalui DNS tersebut
 
 ### Jawaban
-<img width="731" alt="Screen Shot 2023-11-19 at 05 52 23" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/4e71f09b-dc03-44c5-9dc6-b22c41eccc13">
+
+Karena sudah dilakukan configure pada client yang sudah ada, maka untuk mendapatkan DNS dari Heiter dan dapat terhubung dengan internet melalui DNS tersebut maka lakukan `ping google.com` pada salah satu client yang diinginkan (Client Revolte)
+
+<img width="766" alt="Screen Shot 2023-11-19 at 06 18 21" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/9373e1ce-44e3-46f9-8739-1458c2a95b23">
 
 ## Soal 5
 Lama waktu DHCP server meminjamkan alamat IP kepada Client yang melalui Switch3 selama 3 menit sedangkan pada client yang melalui Switch4 selama 12 menit. Dengan waktu maksimal dialokasikan untuk peminjaman alamat IP selama 96 menit 
 
 ### Jawaban
+Lease time yang dibutuhkan merupakan waktu dengan perhitungan di setiap detiknya. Client yang melalui Switch3 memiliki lease time selama 3 menit x 60 = 180. Untuk Switch3 dapat dilakukan pada Client Revolte ataupun Client Richter. Pada perhitungan kali ini dilakukan perhitungan pada Client Richter
+
+<img width="599" alt="Screen Shot 2023-11-19 at 06 27 30" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/7af8dfc8-6fc6-4c36-8416-31933c5fdd05">
+
+Pada Client Ricther memiliki `LEASE TIME 300`
+
+Client yang melalui Switch4 memiliki lease time selama 12 menit x 60 = 720. Untuk Switch4 dapat dilakukan pada Client Stark ataupun Client Sein. Pada perhitungan kali ini dilakukan perhitungan pada Client Stark
+
+<img width="564" alt="Screen Shot 2023-11-19 at 06 32 06" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/a3443875-aa37-4500-bf1c-dfbadf419ea6">
+
+Pada Client Stark memiliki `LEASE TIME 720`
 
 ## Soal 6
 Pada masing-masing worker PHP, lakukan konfigurasi virtual host untuk website berikut dengan menggunakan php 7.3.
