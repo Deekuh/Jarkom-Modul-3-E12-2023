@@ -283,21 +283,32 @@ Pada topologi yang ada, terdapat PHP Worker yaknin Lawine, Lugner, dan Linie. La
 
 Kemudian lakukan `bash no6_worker.sh`
 
+<img width="731" alt="Screen Shot 2023-11-19 at 19 26 46" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/14d12a01-b765-4f75-8072-5ebcc1b3866e">
 
-
-kemudian lakukan pengecekan pada PHP Worker(Lugner), setelah itu lakukan `cd root` serta `ls` pada PHP Worker(Lugner)
+Lakukan pengecekan pada PHP Worker(Lugner), setelah itu lakukan `cd root` serta `ls` pada PHP Worker(Lugner)
 
 <img width="232" alt="Screen Shot 2023-11-19 at 19 16 13" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/73c1e1d4-e6ab-470f-bdfd-6453808f0ecf">
 
 Kemudian lakukan `bash no6_worker.sh`
 
-
+<img width="729" alt="Screen Shot 2023-11-19 at 19 27 33" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/da9ea2ff-3906-45a8-bc6d-2150ad9a29a9">
 
 Setelah itu lakukan pengecekan pada PHP Worker(Linie), setelah itu lakukan `cd root` serta `ls` pada PHP Worker(Linie)
 
 <img width="232" alt="Screen Shot 2023-11-19 at 19 16 13" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/73c1e1d4-e6ab-470f-bdfd-6453808f0ecf">
 
 Kemudian lakukan `bash no6_worker.sh`
+
+<img width="731" alt="Screen Shot 2023-11-19 at 19 28 07" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/b9a75b6d-7141-4b51-8b77-9de1cbbd1056">
+
+
+<img width="361" alt="Screen Shot 2023-11-19 at 19 32 00" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/20b314cc-b42a-40ea-beed-034ebd3eb750">
+
+<img width="366" alt="Screen Shot 2023-11-19 at 19 33 32" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/5768fd88-3b31-4cfc-b6a0-a4416cc305f1">
+
+<img width="361" alt="Screen Shot 2023-11-19 at 19 33 55" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/59e5dbb3-731c-402c-8407-2e60d8114973">
+
+<img width="365" alt="Screen Shot 2023-11-19 at 19 34 27" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/3a752751-1da7-44c3-91fb-42ee093d0c20">
 
 ## Soal 7
 ### Jawaban
