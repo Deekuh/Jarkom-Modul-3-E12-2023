@@ -270,6 +270,34 @@ Pada Client Stark memiliki `LEASE TIME 720`
 Pada masing-masing worker PHP, lakukan konfigurasi virtual host untuk website berikut dengan menggunakan php 7.3.
 
 ### Jawaban
+Lakukan pengecekan pada Load Balancer(Eisen), setelah itu lakukan `cd root` serta `ls` pada Load Balancer(Eisen)
+<img width="557" alt="Screen Shot 2023-11-19 at 18 33 36" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/ceddb6e5-4fe8-46ea-9477-36fedf2bebe7">
+
+Kemudian lakukan `bash no6_lb.sh`
+
+<img width="799" alt="Screen Shot 2023-11-19 at 19 13 33" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/04343c6f-7124-4f9d-9387-07a5d4c518ee">
+
+Pada topologi yang ada, terdapat PHP Worker yaknin Lawine, Lugner, dan Linie. Lakukan pengecekan pada PHP Worker(Lawine), setelah itu lakukan `cd root` serta `ls` pada PHP Worker(Lawine)
+
+<img width="232" alt="Screen Shot 2023-11-19 at 19 16 13" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/73c1e1d4-e6ab-470f-bdfd-6453808f0ecf">
+
+Kemudian lakukan `bash no6_worker.sh`
+
+
+
+kemudian lakukan pengecekan pada PHP Worker(Lugner), setelah itu lakukan `cd root` serta `ls` pada PHP Worker(Lugner)
+
+<img width="232" alt="Screen Shot 2023-11-19 at 19 16 13" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/73c1e1d4-e6ab-470f-bdfd-6453808f0ecf">
+
+Kemudian lakukan `bash no6_worker.sh`
+
+
+
+Setelah itu lakukan pengecekan pada PHP Worker(Linie), setelah itu lakukan `cd root` serta `ls` pada PHP Worker(Linie)
+
+<img width="232" alt="Screen Shot 2023-11-19 at 19 16 13" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/73c1e1d4-e6ab-470f-bdfd-6453808f0ecf">
+
+Kemudian lakukan `bash no6_worker.sh`
 
 ## Soal 7
 ### Jawaban
