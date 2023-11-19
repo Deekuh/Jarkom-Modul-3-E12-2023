@@ -209,6 +209,7 @@ Lakukan pula `apt-get install dnsutils` pada client (Revolte)
 
 
 
+
 Lakukan `host -t A riegel.canyon.e12.com` pada client (Revolte)
 
 <img width="405" alt="Screen Shot 2023-11-19 at 05 29 59" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/a232e9b8-479b-43a6-81ca-3f01ec233c62">
@@ -271,6 +272,7 @@ Pada masing-masing worker PHP, lakukan konfigurasi virtual host untuk website be
 
 ### Jawaban
 Lakukan pengecekan pada Load Balancer(Eisen), setelah itu lakukan `cd root` serta `ls` pada Load Balancer(Eisen)
+
 <img width="557" alt="Screen Shot 2023-11-19 at 18 33 36" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/ceddb6e5-4fe8-46ea-9477-36fedf2bebe7">
 
 Kemudian lakukan `bash no6_lb.sh`
@@ -305,11 +307,11 @@ Setelah itu, lakukan `lynx granz.channel.e12.com` pada Client Revolte, maka requ
 
 <img width="361" alt="Screen Shot 2023-11-19 at 19 32 00" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/20b314cc-b42a-40ea-beed-034ebd3eb750">
 
-Lakukan lagi perulangan `lynx granz.channel.e12.com` pada Client Revolte, maka request akan dihandle oleh : Lugner
+Lakukan lagi perulangan `lynx granz.channel.e12.com` pada Client Revolte, maka request akan dihandle oleh : Linie
 
 <img width="366" alt="Screen Shot 2023-11-19 at 19 33 32" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/5768fd88-3b31-4cfc-b6a0-a4416cc305f1">
 
-Lakukan `lynx granz.channel.e12.com` pada Client Revolte, maka request akan dihandle oleh : Lugner
+Lakukan `lynx granz.channel.e12.com` pada Client Revolte, maka request akan dihandle oleh : Lawine
 
 <img width="361" alt="Screen Shot 2023-11-19 at 19 33 55" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/59e5dbb3-731c-402c-8407-2e60d8114973">
 
