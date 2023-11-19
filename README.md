@@ -301,12 +301,19 @@ Kemudian lakukan `bash no6_worker.sh`
 
 <img width="731" alt="Screen Shot 2023-11-19 at 19 28 07" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/b9a75b6d-7141-4b51-8b77-9de1cbbd1056">
 
+Setelah itu, lakukan `lynx granz.channel.e12.com` pada Client Revolte, maka request akan dihandle oleh : Lugner
 
 <img width="361" alt="Screen Shot 2023-11-19 at 19 32 00" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/20b314cc-b42a-40ea-beed-034ebd3eb750">
 
+Lakukan lagi perulangan `lynx granz.channel.e12.com` pada Client Revolte, maka request akan dihandle oleh : Lugner
+
 <img width="366" alt="Screen Shot 2023-11-19 at 19 33 32" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/5768fd88-3b31-4cfc-b6a0-a4416cc305f1">
 
+Lakukan `lynx granz.channel.e12.com` pada Client Revolte, maka request akan dihandle oleh : Lugner
+
 <img width="361" alt="Screen Shot 2023-11-19 at 19 33 55" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/59e5dbb3-731c-402c-8407-2e60d8114973">
+
+Dan lakukan `lynx granz.channel.e12.com` pada Client Revolte, maka request akan dihandle kembali oleh : Lugner
 
 <img width="365" alt="Screen Shot 2023-11-19 at 19 34 27" src="https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/114421539/3a752751-1da7-44c3-91fb-42ee093d0c20">
 
