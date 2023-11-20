@@ -736,7 +736,7 @@ nginx -t
 
 Lakukan testing pada client dengan menjalankan command `lynx granz.channel.e12.com/its`
 
-![image](https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/90295688/58a0823b-07fe-4f89-8c0e-e0773f7fb601)
+![image](https://github.com/Deekuh/Jarkom-Modul-3-E12-2023/assets/90295688/7170f306-361f-470f-9579-12b38c65592b)
 
 
 ## Soal 12
